@@ -2,7 +2,7 @@
 
 **Desenvolvedora Front-End**
 
-Olá, me chamo Isabelly e sou uma cearence desbravando o mundo da tecnologia.
+Olá, meu nome é Isabelly e sou uma cearence desbravando o mundo da tecnologia.
 --
 
 ### ⌨ Linguagens e Tecnologias
