@@ -40,7 +40,7 @@ Olá, me chamo Isabelly e sou uma cearence desbravando o mundo da tecnologia.
     <img
         align="left"
         alt="GitHub Stats"
-        height="200"
+        height="300"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabellyfalves24&theme=gotham&layout=compact&custom_title=Tecnologias&langs_count=2"
      />
 </div>
