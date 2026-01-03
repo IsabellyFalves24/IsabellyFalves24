@@ -1,0 +1,50 @@
+<svg
+  width="524"
+  height="70"
+  viewBox="0 0 524 70"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <defs>
+    <!-- Gradiente do TEXTO -->
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="8%" stop-color="rgba(68, 0, 255, 0.98)" />
+      <stop offset="35%" stop-color="rgba(144, 0, 255, 1)" />
+      <stop offset="60%" stop-color="rgba(149, 0, 255, 1)" />
+    </linearGradient>
+
+    <!-- Máscara para efeito de digitação -->
+    <mask id="typingMask">
+      <rect
+        x="0"
+        y="0"
+        height="100%"
+        width="0"
+        fill="white"
+      >
+        <animate
+          attributeName="width"
+          from="0"
+          to="524"
+          dur="3s"
+          fill="freeze"
+        />
+      </rect>
+    </mask>
+  </defs>
+
+  <!-- Texto com gradiente + digitação -->
+  <text
+    x="50%"
+    y="50%"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    fill="url(#textGradient)"
+    font-size="22"
+    font-family="Fira Code, monospace"
+    mask="url(#typingMask)"
+  >
+    ⊹ Bem-vindos ao meu perfil! ˙ᵕ˙ ⊹
+  </text>
+
+</svg>
