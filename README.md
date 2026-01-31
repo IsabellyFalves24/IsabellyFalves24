@@ -7,7 +7,7 @@
 <br>
 
 <h2 align="center">
-   💻 <strong>Desenvolvedora Front-End</strong> • Explorando novos mundos com código
+    💙💻<strong>Desenvolvedora Front-End</strong> • Explorando novos mundos através de códigos
 </h2>
 
 <h3 align="center">
@@ -15,20 +15,30 @@
     deixar as coisas mais harmônicas e com mais significado 🪐
 </h3>
 
+<h3><strong>• ✨💻 Linguagens e Tecnologias</strong></h3>
 
-<h3>💙 Linguagens e Tecnologias</h3>
-<br>
-  <div align="left">
-    <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-        width="45"
-        title="HTML5"
-    />
-    <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-        width="45"
-        title="CSS3"
-    />
- </div>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
-<br>
