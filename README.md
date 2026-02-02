@@ -42,3 +42,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+<div>
+  <img src="https://raw.githubusercontent.com/IsabellyFalves24/gitrepo/output/snake.svg" alt="Snake animation" />
+</div>
+
+
